@@ -1,0 +1,51 @@
+        Curve Info,               min,           XAtYMin,      XAtYVal(-10), XAtYVal_1(-10.08),XWidthAtYVal(-10.08)
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.7meter' W='0.8meter',          -16.2672,           79.0000,           70.3603,           70.4451,           20.9217
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.75meter' W='0.8meter',          -15.7762,           75.0000,           68.2429,           68.3188,           16.9542
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.8meter' W='0.8meter',          -12.4503,           68.0000,           64.5428,           64.6169,            7.8397
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.85meter' W='0.8meter',          -28.3973,           66.0000,           60.1020,           60.1495,           14.3766
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.9meter' W='0.8meter',          -25.3221,           64.0000,           57.8866,           57.9414,           14.7366
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.7meter' W='0.85meter',           -8.2069,           75.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.75meter' W='0.85meter',           -9.8392,           70.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.8meter' W='0.85meter',          -19.6056,           69.0000,           62.8269,           62.8880,           14.8812
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.85meter' W='0.85meter',          -15.9434,           65.0000,           60.4928,           60.5443,            9.8755
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.9meter' W='0.85meter',          -34.9256,           65.0000,           59.2061,           59.2557,           15.1139
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.7meter' W='0.9meter',           -8.8155,           76.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.75meter' W='0.9meter',          -10.4988,           72.0000,           69.6270,           69.8038,            4.2901
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.8meter' W='0.9meter',          -13.0314,           69.0000,           64.2914,           64.3643,            9.4013
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.85meter' W='0.9meter',          -19.5354,           67.0000,           60.9433,           61.0015,           13.5450
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.9meter' W='0.9meter',          -21.2909,           63.0000,           58.0337,           58.0765,           11.3095
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.7meter' W='0.95meter',          -10.4794,           74.0000,           71.7798,           71.9720,            4.8215
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.75meter' W='0.95meter',          -12.0490,           73.0000,           68.2759,           68.3809,            9.8755
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.8meter' W='0.95meter',          -19.8435,           70.0000,           63.5119,           63.5758,           17.1405
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.85meter' W='0.95meter',          -16.1340,           64.0000,           59.2829,           59.3320,            9.7510
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.9meter' W='0.95meter',          -44.1843,           65.0000,           58.8541,           58.9108,           15.6989
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.7meter' W='1meter',           -8.8431,           75.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.75meter' W='1meter',           -9.3893,           72.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.8meter' W='1meter',          -10.8646,           69.0000,           66.2505,           66.3896,            5.1833
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.85meter' W='1meter',          -15.3840,           67.0000,           61.7923,           61.8547,           11.4087
+dB(S(1,1)) Setup1 : Sweep Height='0.85meter' L='0.9meter' W='1meter',          -30.4296,           64.0000,           58.2339,           58.2838,           14.5392
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.7meter' W='0.8meter',          -11.4369,           74.0000,           69.4717,           69.6062,            9.6861
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.75meter' W='0.8meter',          -11.7986,           73.0000,           68.4442,           68.5630,           10.7556
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.8meter' W='0.8meter',          -16.9577,           68.0000,           62.0018,           62.0623,           14.9522
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.85meter' W='0.8meter',          -18.1664,           67.0000,           61.0360,           61.0927,           15.0725
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.9meter' W='0.8meter',          -19.3581,           63.0000,           57.4723,           57.5221,           12.1538
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.7meter' W='0.85meter',          -10.0346,           73.0000,           72.5731,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.75meter' W='0.85meter',          -14.1623,           71.0000,           65.2802,           65.3622,           14.9329
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.8meter' W='0.85meter',          -14.9273,           70.0000,           63.5994,           63.6736,           14.6929
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.85meter' W='0.85meter',          -14.0665,           63.0000,           59.0599,           59.1167,            8.9488
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.9meter' W='0.85meter',          -25.5129,           62.0000,           56.5638,           56.6135,           13.5475
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.7meter' W='0.9meter',           -9.0730,           74.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.75meter' W='0.9meter',          -11.1708,           69.0000,           66.0496,           66.1854,            7.2389
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.8meter' W='0.9meter',          -14.2707,           67.0000,           62.1973,           62.2673,           12.0836
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.85meter' W='0.9meter',          -18.6427,           65.0000,           59.3327,           59.3880,           14.0104
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.9meter' W='0.9meter',          -16.4557,           62.0000,           57.6520,           57.7063,           10.9767
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.7meter' W='0.95meter',           -8.7151,           73.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.75meter' W='0.95meter',           -9.8895,           72.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.8meter' W='0.95meter',           -9.6055,           66.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.85meter' W='0.95meter',          -15.2753,           65.0000,           60.1844,           60.2461,           12.2658
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.9meter' W='0.95meter',          -16.6322,           63.0000,           57.7541,           57.8102,           11.4077
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.7meter' W='1meter',           -9.8734,           74.0000,               nan,               nan,                  
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.75meter' W='1meter',          -10.5110,           70.0000,           67.6417,           67.8310,            4.7883
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.8meter' W='1meter',          -15.9636,           69.0000,           62.3471,           62.4177,           15.8952
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.85meter' W='1meter',          -11.0804,           63.0000,           60.8835,           60.9760,            5.2111
+dB(S(1,1)) Setup1 : Sweep Height='0.95meter' L='0.9meter' W='1meter',          -18.7307,           62.0000,           56.4576,           56.5086,           12.0053
